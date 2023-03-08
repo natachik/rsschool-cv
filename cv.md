@@ -73,7 +73,6 @@ Planning tasks in the sprint (NOTION). Setting tasks for the team, quality contr
 _April 2016 - December 2021_ 
 Verification Team Leader. Quality assessment specialist
 Organization and improvement of the system for managing the work of team members. Training specialists. Respond to user inquiries and handle complaints. Writing documentation, public and manual pages (Confluence, word).  Setting tasks to create and delete accesses (JIRA). Bug tracking (JIRA) Analysis of employee performance and compilation of various types of KPI reporting. Fraud analysis. Control and quality of customer service. Interviewing. The introduction of new products in the work. Communication with partners, etc.
-
 _November 2014 - April 2016_
 Specialist of the Department of Underwriting Specialist of the Technical Support Service
 Verification of Customer Personal Data, identifying signs of fraud, checking authenticity of documents, maintaining reports on the results of work: the level and quality of customer service, preparation of documents for credit bureaus. 

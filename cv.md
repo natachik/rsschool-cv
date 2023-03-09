@@ -1,7 +1,6 @@
 # Natalya Chikvina 
 ### Personal information
 30 years old, born November 20,1992
-![me.png]([..%2Fimages%2Fme.png](https://ru.files.fm/u/hf75k5m4w))
 ___
 ### Contacts
 * location: Minsk, Belarus;
@@ -70,8 +69,8 @@ Account manager. Junior PM
 Planning tasks in the sprint (NOTION). Setting tasks for the team, quality control of task execution, compliance with deadlines (NOTION). Gather business and software requirements. Document and convert them into stories. Monitoring the work to make sure it goes according to the plan.  Making payments to team members once a month, keeping records 
 
 * __ID Finance__  
-_April 2016 - December 2021_ 
-Verification Team Leader. Quality assessment specialist
+_April 2016 - December 2021_
+Verification Team Leader. Quality assessment specialist. 
 Organization and improvement of the system for managing the work of team members. Training specialists. Respond to user inquiries and handle complaints. Writing documentation, public and manual pages (Confluence, word).  Setting tasks to create and delete accesses (JIRA). Bug tracking (JIRA) Analysis of employee performance and compilation of various types of KPI reporting. Fraud analysis. Control and quality of customer service. Interviewing. The introduction of new products in the work. Communication with partners, etc.
 _November 2014 - April 2016_
 Specialist of the Department of Underwriting Specialist of the Technical Support Service

@@ -1,23 +1,27 @@
-# Natalya Chikvina 
+# Natalya Chikvina
 ___
+
 ### Personal information
 30 years old, born November 20,1992
 
 ![myphoto.png](myphoto.png)
-___
+
+
 ### Contacts
 * location: Minsk, Belarus;
 * discord: natachikvina(natachik);
 * email: natachikvina@gmail.com;
 * gitHub: natachik; 
 * phone: +375 25 656-04-39;
-___
+
+
 ### About me 
 I have good organization and communication skills. I really enjoy learning something new. 
 I want to gain experience in development and get new skills. 
 I can describe myself as a responsible person with logical thinking.
 I have experience with figma, miro, tilda and team management experience. 
-___
+
+
 ### Professional skills 
 * Knowledge and experience of Agile software development methodologies (Scrum);
 * Experience in usage of Defect Management tools (JIRA);
@@ -32,8 +36,10 @@ ___
 * Experience managing a verification team (almost 25 people);
 * Good organization and communication skills;
 * Good analytical skills.
-___
+
+
 ### Code example 
+
 ```
 let str4 = "background-color"
 let str2 = "list-style image"
@@ -56,7 +62,8 @@ let b = capitalize(str2)
 
 console.log(camelize(a))
 ```
-___
+
+
 ### Experience
 
 __Cowering Kolizey__
@@ -86,24 +93,23 @@ Organization and improvement of the system for managing the work of team members
 _November 2014 - April 2016_:
 Specialist of the Department of Underwriting Specialist of the Technical Support Service
 Verification of Customer Personal Data, identifying signs of fraud, checking authenticity of documents, maintaining reports on the results of work: the level and quality of customer service, preparation of documents for credit bureaus. 
-___
+
 
 ### Higher education
 Belarusian National Technical University 2010-2015, Minsk
 Faculty of Information Technology and Robotics (FITR), Information Systems
 and technology in production.
-___
+
 
 ### Additional education
 IT Academy Stormnet, October-November 2018
 Software Testing
-___
+
 
 ### Languages
 * Russian – native
 *  English – B1-intermediate (I try to practice and have regular classes 2 times a week) 
 
-___
 
 
 
